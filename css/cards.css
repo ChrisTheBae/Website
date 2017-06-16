@@ -414,6 +414,7 @@ a:hover .lnk-icon-right {
   padding: 20px;
   z-index: 1;
   display: none;
+  background-image: url("https://www.thearchon.net/assets/img/logo.png");
   background: #111111;
   -webkit-backface-visibility: hidden;
 }
@@ -879,6 +880,7 @@ a:hover .lnk-icon-right {
 .fh5co-cover {
   position: relative;
   min-height: 800px;
+  background-image: url("https://www.thearchon.net/assets/img/background.png");
 }
 .fh5co-cover .fh5co-cover-text {
   position: relative;
